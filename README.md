@@ -1,1 +1,1 @@
-# Amazon_LAnding_Page
+# Amazon_Landing_Page
